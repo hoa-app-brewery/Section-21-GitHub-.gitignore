@@ -1,0 +1,6 @@
+secret.txt
+
+#This is how you comment in .gitignore
+
+#This is a wildcard: *.txt
+#That ensures all things with .txt extension are ignored
